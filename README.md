@@ -19,4 +19,4 @@ In order to plot the clusteres the 755 dimension was reduced to 2 using PCA from
 
 <img src="images/pca.jpg">
 
-### White markers represent the centroid of each cluster and black dots represent each companies in each of the clusters
+White markers represent the centroid of each cluster and black dots represent each companies in each of the clusters
