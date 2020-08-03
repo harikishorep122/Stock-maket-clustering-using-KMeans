@@ -11,6 +11,10 @@ Matplotlib for plotting
 
 Since the data included companies having varied stock movements it was necessary to normalise the dataset.
 
+<img src="images/normalization.jpg">
+
 ## PCA 
 
 In order to plot the clusteres the 755 dimension was reduced to 2 using PCA from scikit learn package.
+
+<img src="images/pca.jpg">
