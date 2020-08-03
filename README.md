@@ -20,3 +20,7 @@ In order to plot the clusteres the 755 dimension was reduced to 2 using PCA from
 <img src="images/pca.jpg">
 
 White markers represent the centroid of each cluster and black dots represent each companies in each of the clusters
+
+## Results
+
+Similarites between different companies were found out. Companies with similar market share were clusterd together, for example pepsi & Cococola were grouped together defense companies like Exxon and Chevron were grouped to another cluster.
