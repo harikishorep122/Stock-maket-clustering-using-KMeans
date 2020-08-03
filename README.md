@@ -23,4 +23,4 @@ White markers represent the centroid of each cluster and black dots represent ea
 
 ## Results
 
-Similarites between different companies were found out. Companies with similar market share were clusterd together, for example pepsi & Cococola were grouped together defense companies like Exxon and Chevron were grouped to another cluster.
+Similarities between different companies were found out. Companies with similar market share were clusterd together, for example pepsi & Cococola were grouped together defense companies like Exxon and Chevron were grouped to another cluster.
